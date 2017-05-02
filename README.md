@@ -1,2 +1,2 @@
-# CS610_Project
+# CS610_Comp_Programming_Lang_Project
 Heapsort Quicksort Mergesort Radixsort BinaryTree
